@@ -10,9 +10,6 @@ You will need the following software to be able to run this program:
 * Java SE Development Kit (JDK) 8 or later
 
 ## Installing
-* Clone the repository to your local machine:
-
-* git clone (https://github.com/sharma-shivang/type-speed-test.git)
 
 * Compile the java source files:
 
